@@ -1,1 +1,3 @@
-class PugLat
+class PigLatinizer
+  
+end
